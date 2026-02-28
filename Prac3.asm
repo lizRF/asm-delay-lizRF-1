@@ -1,3 +1,6 @@
+;Lizzette Ramirez Fernandez 1291061
+; Practica 3
+
 ;call delay20uS
 ;call delay4mS
 ;call delay1s
